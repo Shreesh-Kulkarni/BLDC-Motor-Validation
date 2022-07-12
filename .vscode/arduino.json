@@ -1,0 +1,4 @@
+{
+    "sketch": "currentsensor\\currentsensor.ino",
+    "board": "arduino:avr:uno"
+}

@@ -1,6 +1,6 @@
 // Following sketch is a combination of code derived from Arduino IDE datalogger example sketch, and 
 // code developed by Adafruit for use with its own datalogger shield. This code monitors response on a 
-// "Funduino" water sensor and records the results to a datalogger hosing an SD card to include 
+// hall effect  sensor and records the results to a datalogger hosing an SD card to include 
 // time stamping of your data.
 
 // The Arduino datalogger example sketch is available within the IDE under 

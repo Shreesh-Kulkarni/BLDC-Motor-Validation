@@ -37,7 +37,7 @@ void loop() {
   tOFF=pulseIn(Wcspin,LOW);
   Tperiod=tON + tOFF;
   freq= 1000000.0/ Tperiod;
-  RPM=freq * 15;
+  RPM=freq * 60;
   speed=(RPM*diameter*PI*60*1.60934)/(63360);
     
   // make a string for assembling the data to log:
